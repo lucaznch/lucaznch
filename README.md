@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I'm Luca Silva - currently studying Computer Science @ Instituto Superior Técnico
+I'm Luca Silva, currently studying Computer Science @ Instituto Superior Técnico.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaznch&layout=compact&theme=default&exclude_repo=ESof)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaznch&theme=nord&count_private=true)
